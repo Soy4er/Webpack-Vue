@@ -1,0 +1,32 @@
+// Color
+$primary : #70D24E;
+$white : #FFF;
+$black : #2F2E2D;
+$gray-100 : #F8F8F8;
+$gray-200 : #F5F5F5;
+$gray-300 : #EBEBEB;
+$gray-400 : #D8D8D8;
+$gray-500 : #C4C4C4;
+$gray-600 : #2C323A;
+
+// Font Size
+$font-size-base: 1rem !default;                    // 16px
+$font-size-xs : $font-size-base * .5 !default;     // 8px
+$font-size-sm : $font-size-base * .75 !default;    // 12px
+$font-size-md : $font-size-base * 1.125 !default;  // 18px
+$font-size-lg : $font-size-base * 1.25 !default;   // 20px
+$font-size-xl : $font-size-base * 1.875 !default;  // 30px
+
+// Line Height
+$line-height-base: 1rem !default;                       // 16px
+$line-height-md : $line-height-base * 1.125 !default;   // 18px
+$line-height-lg : $line-height-base * 1.75 !default;    // 28px
+$line-height-xl : $line-height-base * 3.125 !default;   // 50px
+
+// Margin && Padding
+$margin-base: 1rem !default;
+$margin-md: $margin-base * 3.125 !default;
+
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+$font-family-base: 'Montserrat', sans-serif;

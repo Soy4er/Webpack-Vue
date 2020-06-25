@@ -1,0 +1,7 @@
+# file: ~/.gitignore_global
+
+node_modules
+dist
+.DS_Store
+.idea
+.vscode
